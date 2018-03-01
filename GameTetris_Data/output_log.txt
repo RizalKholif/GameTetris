@@ -1,0 +1,77 @@
+Initialize engine version: 5.4.0b11 (323b0238353b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     547 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.606 seconds
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\KULIAH\SEMESTER 6\Game Programming\File Game\GameTetris\GameTetris_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.342753 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a14 -> priority: 1 
+Game Over 
+ Your Score is = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.898441 ms
+
+Unloading 148 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 33.589710 ms (FindLiveObjects: 33.326939 ms CreateObjectMapping: 0.027884 ms MarkObjects: 0.149819 ms  DeleteObjects: 0.083180 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.936250 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.245759 ms (FindLiveObjects: 0.074200 ms CreateObjectMapping: 0.014178 ms MarkObjects: 0.123352 ms  DeleteObjects: 0.032137 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.016595 ms
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.308145 ms (FindLiveObjects: 0.091214 ms CreateObjectMapping: 0.017959 ms MarkObjects: 0.130914 ms  DeleteObjects: 0.067111 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.862522 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.245759 ms (FindLiveObjects: 0.075145 ms CreateObjectMapping: 0.015123 ms MarkObjects: 0.120989 ms  DeleteObjects: 0.033083 ms)
+
+Game Over 
+ Your Score is = 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.877646 ms
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.336029 ms (FindLiveObjects: 0.094050 ms CreateObjectMapping: 0.018904 ms MarkObjects: 0.135167 ms  DeleteObjects: 0.086488 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.346008 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.275534 ms (FindLiveObjects: 0.082707 ms CreateObjectMapping: 0.016541 ms MarkObjects: 0.123825 ms  DeleteObjects: 0.051515 ms)
+
+Game Over 
+ Your Score is = 620
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
